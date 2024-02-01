@@ -6,7 +6,7 @@ function sendMessage() {
     chatMessages.innerHTML += '<div><strong>Utilisateur :</strong> ' + userInput + '</div>';
 
     // Répondre avec le message de l'IA
-    chatMessages.innerHTML += '<div><strong>IA :</strong> hum fesse fesse fesse, c'est trop bon</div>';
+    chatMessages.innerHTML += '<div><strong>IA :</strong> hum fesse fesse fesse, c'est trop bon, fabio mon ami</div>';
 
     // Effacer le champ de saisie
     document.getElementById("user-input").value = '';
